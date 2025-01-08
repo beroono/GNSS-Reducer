@@ -1,7 +1,7 @@
 [![GitHub Releases](https://img.shields.io/github/v/release/beroono/GNSS-Reducer)](https://github.com/beroono/GNSS-Reducer/releases)
 
 <div align="center">
-  <img src="icon.png" alt="GNSS Reducer Icon" width="150" />
+  <img src="./assets/icon.png" alt="GNSS Reducer Icon" width="150" />
 </div>
 <br>
 <h1 align="center">GNSS Reducer</h1>
